@@ -1,0 +1,3 @@
+Êþº¾   4   #com/qhit/lh/gr3/gmy/ht6/dao/BaseDao  java/lang/Object 	getObject 8(Ljava/lang/Class;Ljava/lang/Integer;)Ljava/lang/Object; add (Ljava/lang/Object;)V delete update getAll $(Ljava/lang/String;)Ljava/util/List; 	Signature 8(Ljava/lang/String;)Ljava/util/List<Ljava/lang/Object;>; getMsgArray 9(Ljava/lang/String;)Ljava/util/List<[Ljava/lang/Object;>; 
+SourceFile BaseDao.java                	    
+                         

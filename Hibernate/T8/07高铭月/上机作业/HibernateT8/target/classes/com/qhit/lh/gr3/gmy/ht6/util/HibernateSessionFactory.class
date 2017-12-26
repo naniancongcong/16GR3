@@ -1,0 +1,13 @@
+Êþº¾   4 /  4com/qhit/lh/gr3/gmy/ht6/util/HibernateSessionFactory  java/lang/Object sessionfactory Lorg/hibernate/SessionFactory; configuration !Lorg/hibernate/cfg/Configuration; <clinit> ()V Code  org/hibernate/cfg/Configuration
+    
+ <init>  hibernate.cfg.xml
+     	configure 5(Ljava/lang/String;)Lorg/hibernate/cfg/Configuration;	    
+     buildSessionFactory  ()Lorg/hibernate/SessionFactory;	     LineNumberTable LocalVariableTable
+   this 6Lcom/qhit/lh/gr3/cyh/ht6/util/HibernateSessionFactory; 
+getSession ()Lorg/hibernate/Session; ' ) ( org/hibernate/SessionFactory * % openSession session Lorg/hibernate/Session; 
+SourceFile HibernateSessionFactory.java !      
+     
+       	 
+     A      ? Y? ? ? ? ? ? ?                         
+     /     *? !?                     " #   	 $ %     9     ? ? & K*?       
+     	        	  + ,    -    .
